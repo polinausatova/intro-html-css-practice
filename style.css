@@ -1,0 +1,26 @@
+* {
+border: 2px solid rgb(240, 241, 240);
+margin: 5px rgb(42, 78, 42);
+padding: ;
+text-align:  ;
+box-sizing: border-box;
+background-color: rgb(218, 229, 229);
+}
+
+h3{
+    border: 2px dotted rgb(100, 154, 100);
+    margin: 5px rgb(42, 78, 42);
+    border-radius: 4px;  
+    font-family:'Courier New', Courier, monospace;  
+}
+
+img{
+    max-width: 150px;
+}
+.list{ /*class*/
+    background-color: antiquewhite;
+}
+
+hash?features-list{ /*id*/
+    border: 
+}
